@@ -9,7 +9,7 @@ export const Card = props => (
    {props.monster.name}
     </h1>
     <h2>{props.monster.email}</h2>
-    {console.log(props.monster.id)};
+ 
 
     </div>
 )
